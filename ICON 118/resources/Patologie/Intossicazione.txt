@@ -1,0 +1,13 @@
+vomito,
+diarrea,
+dolori addominali,
+febbre e brividi.
+crampi addominali,
+febbre lieve,
+debolezza,
+mal di testa,
+difficoltà a parlare,
+difficoltà a vedere,
+disidratazione,
+bocca secca,
+sangue nelle urine.
